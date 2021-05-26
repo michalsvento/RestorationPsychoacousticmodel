@@ -12,7 +12,7 @@ Zložka [Code](Code) obsahuje:
 *  `synthsignals.m` - vytvorenie matice umelých signálov
 *  `weights.m` - vytvorenie vektora váh
 
-Zložka [Graph&Sound](Graph&Sound) obsahuje:
+Zložka [Results-Graph&Sound](Results-Graph&Sound) obsahuje:
 *  `Maintest.m` - skript na načítanie výsledkov a spustenie ltfat. Po spustení je možné pomocou Command Window volať funkcie `resgraph.m`  a `soundspectro.m` pre zvolenú možnosť.
 *  `soundspectro.m` - funkcia vykreslenie priebehu a spektrogramu vybraného signálu a prehratie zvolenej vzorky
 *  `resgraph.m` - funkcia zobrazenie priebehu SDR a PEMO-Q ODG voči dĺžke diery pre vybraný signál.
