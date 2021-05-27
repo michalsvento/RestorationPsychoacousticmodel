@@ -15,9 +15,9 @@ addpath('ltfat')
 ltfatstart;
 
 % Nacitanie vysledkov a signalov
-load('results.mat')
-load('DRsignals.mat')
-load('CPsignals.mat')
+load('data/results.mat')
+load('data/DRsignals.mat')
+load('data/CPsignals.mat')
 
 % load('resultsmean.mat')
 % ak nie je este resultsmean vytvoreny 

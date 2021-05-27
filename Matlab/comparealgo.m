@@ -34,6 +34,6 @@ for i=1:7
 end
 
 % Zakomentovat/odkomentovat pre pripadne ukladanie vysledkov
-save('resultsmean.mat','resultsmean');
+save('data/resultsmean.mat','resultsmean');
 
 end
