@@ -16,7 +16,7 @@ Zložka [Matlab](Matlab) obsahuje:
 *  `resgraph.m` - funkcia zobrazenie priebehu SDR a PEMO-Q ODG voči dĺžke diery pre vybraný signál.
 *  `comparealgo.mat` - výpočet priemerných hodnôt pre hodnotenie
 
-Zložka [Matlab/data](Data) obsahuje:
+Zložka [Matlab/data](Matlab/data) obsahuje:
 *  `results.mat` - výsledky SDR a ODG pre všetky variácie parametrov - každý stĺpec predstavuje jednu možnosť diery, každý riadok predstavuje jeden signál
 *  `resultsmean.mat` - spriemerované výsledky z `results`, osobitne pre syntetické signály (1.riadok), osobitne pre reálne signály (2.riadok).
 *  `resultsDR.mat` - signály získané DRA, každý stĺpec predstavuje jednu dieru, každý riadok jeden váhový vektor. Vnútri každej bunky, predstavuje každý riadok jeden signál.
