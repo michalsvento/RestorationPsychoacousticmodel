@@ -19,5 +19,5 @@ Zložka [Matlab](Matlab) obsahuje:
 Zložka [Matlab/data](Matlab/data) obsahuje:
 *  `results.mat` - výsledky SDR a ODG pre všetky variácie parametrov - každý stĺpec predstavuje jednu možnosť diery, každý riadok predstavuje jeden signál
 *  `resultsmean.mat` - spriemerované výsledky z `results`, osobitne pre syntetické signály (1.riadok), osobitne pre reálne signály (2.riadok).
-*  `resultsDR.mat` - signály získané DRA, každý stĺpec predstavuje jednu dieru, každý riadok jeden váhový vektor. Vnútri každej bunky, predstavuje každý riadok jeden signál.
-*  `resultsCP.mat` - rovnaký význam ako u `resultsDR.mat`
+*  `CPsignals.mat` - signály získané CPA, každý stĺpec predstavuje jednu dieru, každý riadok jeden váhový vektor. Vnútri každej bunky, predstavuje každý riadok jeden signál.
+*  `DRsignals.mat` - rovnaký význam ako u `CPsignals.mat`
