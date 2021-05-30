@@ -1,6 +1,6 @@
 # RestorationPsychoacousticmodel
 
-Táto knižnica je doplnkovým zdrojom pre bakalársku prácu Michala Šventa **Restaurování chybějících vzorků zvukového signálu s použitím psychoakustického modelu**. Hlavným dôvodom je sprístupnenie súborov s reštaurovanými signálmi  `resultsDR.mat` a  `resultsCP.mat`, ktoré sú výstupom algoritmov a do prílohy by sa nezmestili.
+Táto knižnica je doplnkovým zdrojom pre bakalársku prácu Michala Šventa **Restaurování chybějících vzorků zvukového signálu s použitím psychoakustického modelu**. Hlavným dôvodom je sprístupnenie súboru `EBU-SQAM.mat` s testovacími nahrávkami a súborov s reštaurovanými signálmi  `resultsDR.mat` a  `resultsCP.mat`, ktoré sú výstupom algoritmov a do prílohy by sa nezmestili.
 
 Zložka [Matlab](Matlab) obsahuje:
 * `Douglas-Rachford.m` - realizácia Douglasovho-Rachfordovho algoritmu (DRA)
